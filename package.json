@@ -1,0 +1,13 @@
+{
+  "name": "ping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.2.0",
+    "koa-static": "^3.0.0",
+    "ping": "^0.2.2",
+    "socket.io": "^1.7.3"
+  }
+}
